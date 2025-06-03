@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "serve": "vite preview"
-  } ,
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
